@@ -29,7 +29,7 @@
 ---
 
 ## 🛠️ Projects
-- 🎨 [Portfolio Website](https://ujjwalanandpf.netlify.app/) – React + Tailwind
+- 🎨 [Portfolio Website](https://ujjwalanandp.netlify.app/) – React + Tailwind
 - ❤️‍🔥 DevTinder – Developer MatchMaking + Connect With Developer + Chating + AI insights (in progress)
 - 🌐 NetflixGPT – MovieGPT - with AI suggestions
 - 🔐 Email Automation System – Built with PHP & CRON
