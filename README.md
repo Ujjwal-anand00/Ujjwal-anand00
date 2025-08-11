@@ -30,7 +30,8 @@
 
 ## 🛠️ Projects
 - 🎨 [Portfolio Website](https://ujjwalanandp.netlify.app/) – React + Tailwind
-- ❤️‍🔥 DevTinder – Developer MatchMaking + Connect With Developer + Chating + AI insights (in progress)
+- ❤️‍🔥 GitHookUp – Developer MatchMaking + Connect With Developer + Chating + AI insights (in progress)
+- 📝 TypeVoid - Full Stack Blog Platform 
 - 🌐 NetflixGPT – MovieGPT - with AI suggestions
 - 🔐 Email Automation System – Built with PHP & CRON
 
