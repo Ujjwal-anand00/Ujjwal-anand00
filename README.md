@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Ujjwal Anand
 
-🌱 Computer Science Engineering Student at Lovely Professional University  
-💻 Aspiring Software Developer | MERN Stack | C++ Enthusiast  
-🎯 Passionate about building tech that serves India and the world  
-📈 Currently working on: Full-stack projects & AI-powered analytics tools
+🌱 **Computer Science Engineering Student** at Lovely Professional University  
+💻 **Aspiring Software Developer** | MERN Stack | C++ Enthusiast  
+🎯 Passionate about building technology that serves **India and the world**  
+📈 Currently working on **full-stack systems** and **AI-powered analytics tools**
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages:**  
+### 🧠 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,23 +17,45 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Web & Tools:**  
+---
+
+### 🌐 Web & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Parcel](https://img.shields.io/badge/Parcel-BD79D1?style=flat&logo=parcel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Parcel](https://img.shields.io/badge/Parcel-BD79D1?style=flat&logo=parcel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### 📊 Data & Analytics
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ---
 
 ## 🛠️ Projects
-- 🎨 [Portfolio Website](https://ujjwalanandp.netlify.app/) – React + Tailwind
-- ❤️‍🔥 GitHookUp – Developer MatchMaking + Connect With Developer + Chating + AI insights (in progress)
-- 📝 TypeVoid - Full Stack Blog Platform 
-- 🌐 NetflixGPT – MovieGPT - with AI suggestions
-- 🔐 Email Automation System – Built with PHP & CRON
+
+- 🎨 **Portfolio Website**  
+  🔗 https://ujjwalanandp.netlify.app/  
+  _React + TailwindCSS_
+
+- ❤️‍🔥 **GitHookUp**  
+  Developer matchmaking platform with real-time chat, connections, and AI-driven insights  
+  _MERN Stack · WebSockets · JWT · AWS_  
+  _(In Progress)_
+
+- 📝 **TypeVoid**  
+  Full-stack blog platform with authentication, publishing, and content management
+
+- 🌐 **ChillPlex**  
+  Movie discovery and review platform using TMDB API
+
+- 🔐 **Email Automation System**  
+  PHP + CRON based email system with verification and scheduled updates
 
 ---
 
@@ -44,4 +66,5 @@
 
 ---
 
-> “Code with purpose. Build for change.” – Ujjwal Anand
+> _“Code with purpose. Build for change.”_  
+> **— Ujjwal Anand**
