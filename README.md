@@ -19,14 +19,20 @@
 
 ---
 
-### 🌐 Web & Tools
+### 🌐 Web 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Parcel](https://img.shields.io/badge/Parcel-BD79D1?style=flat&logo=parcel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### 🔨 Tools
+![Visual Studio Code](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
+![WebStorm](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png)
+![Postman](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png)
+![Android Studio](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png)
 
 ---
 
@@ -34,6 +40,19 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+---
+
+### 📊 Communication
+[![HTTP](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png)]
+[![websocket]((https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png))]
+[![REST]((https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png))]
+
+---
+🧰 Version Control
+[![Git](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)]
+[![GitHub](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)]
+[![GitLab](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png)]
 
 ---
 
