@@ -64,8 +64,8 @@
   _React + TailwindCSS_
 
 - 📚**Gyano**
-  Gyano is an AI-powered digital learning platform that delivers structured courses, interactive lessons, and personalized insights with seamless offline   access.
-  _MERN Stack · SQLite · gemini-2.5-flash_
+  Gyano is an AI-powered digital learning platform that delivers structured courses, interactive lessons, and personalized insights with seamless offline access.  
+  _MERN Stack · WebSockets · JWT · AWS_  
   _(In Progress)_
 
 - ❤️‍🔥 **GitHookUp**  
