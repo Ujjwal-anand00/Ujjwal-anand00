@@ -65,7 +65,7 @@
 
 - 📚**Gyano**
   Gyano is an AI-powered digital learning platform that delivers structured courses, interactive lessons, and personalized insights with seamless offline access.  
-  _MERN Stack · WebSockets · JWT · AWS_  
+  _MERN Stack · SQLite · RBAC · IndexedDB · gemini-3.1-flash-lite_  
   _(In Progress)_
 
 - ❤️‍🔥 **GitHookUp**  
