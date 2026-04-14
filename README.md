@@ -63,6 +63,11 @@
   🔗 https://ujjwalanandp.netlify.app/  
   _React + TailwindCSS_
 
+- 📚**Gyano**
+  Gyano is an AI-powered digital learning platform that delivers structured courses, interactive lessons, and personalized insights with seamless offline   access.
+  _MERN Stack · SQLite · gemini-2.5-flash_
+  _(In Progress)_
+
 - ❤️‍🔥 **GitHookUp**  
   Developer matchmaking platform with real-time chat, connections, and AI-driven insights  
   _MERN Stack · WebSockets · JWT · AWS_  
@@ -73,9 +78,6 @@
 
 - 🌐 **ChillPlex**  
   Movie discovery and review platform using TMDB API
-
-- 🔐 **Email Automation System**  
-  PHP + CRON based email system with verification and scheduled updates
 
 ---
 
