@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Ujjwal Anand
+# Hi, I'm Ujjwal Anand
 
-🌱 **Computer Science Engineering Student** at Lovely Professional University  
-💻 **Aspiring Software Developer** | MERN Stack | C++ Enthusiast  
-🎯 Passionate about building technology that serves **India and the world**  
-📈 Currently working on **full-stack systems** and **AI-powered analytics tools**
+ **Computer Science Engineering Student** at Lovely Professional University  
+ **Aspiring Software Developer** | MERN Stack | C++ Enthusiast  
+ **Passionate about building technology that serves **India and the world**  
+ **Currently working on **full-stack systems** and **AI-powered analytics tools**
 
 ---
 
@@ -63,20 +63,20 @@
   🔗 https://ujjwalanandp.netlify.app/  
   _React + TailwindCSS_
 
-- 📚**Gyano**
+- **Gyano**
   Gyano is an AI-powered digital learning platform that delivers structured courses, interactive lessons, and personalized insights with seamless offline access.  
-  _MERN Stack · SQLite · RBAC · IndexedDB · gemini-3.1-flash-lite_  
+  _pERN Stack · PostgreSQL · RBAC · IndexedDB · gemini-3.1-flash-lite_  
   _(In Progress)_
 
-- ❤️‍🔥 **GitHookUp**  
+-  **GitHookUp**  
   Developer matchmaking platform with real-time chat, connections, and AI-driven insights  
   _MERN Stack · WebSockets · JWT · AWS_  
   _(In Progress)_
 
-- 📝 **TypeVoid**  
+-  **TypeVoid**  
   Full-stack blog platform with authentication, publishing, and content management
 
-- 🌐 **ChillPlex**  
+-  **ChillPlex**  
   Movie discovery and review platform using TMDB API
 
 ---
