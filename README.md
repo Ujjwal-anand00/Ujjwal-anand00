@@ -60,7 +60,7 @@
 ## 🛠️ Projects
 
 - 🎨 **Portfolio Website**  
-  🔗 https://ujjwalanandp.netlify.app/  
+  🔗 https://ujjwal-anand.vercel.app/  
   _React + TailwindCSS_
 
 - **Gyano**
